@@ -1,5 +1,3 @@
-<img width="100%" align="center" src="https://c.tenor.com/VkScszX7f3YAAAAC/discord-banner.gif">
-
 <img width="150px" align="left" src="https://raw.githubusercontent.com/IuraCPersonal/IuraCPersonal/main/crow.gif">
 
 ### 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞 👋,
