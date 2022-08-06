@@ -11,6 +11,3 @@ A passionate self-taught frontend developer, data scientist and linux user, purs
 - 🔭 I’m currently working on [my arch dotfiles](https://github.com/IuraCPersonal/dotfiles)
 - 🌱 I’m currently learning **ReactJS**
 - 📫 How to reach me **iurie.cius@isa.utm.md**
-
-
-<p width="50%" align="center"><img width="50%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iuracpersonal&" alt="iuracpersonal" /></p>
