@@ -4,6 +4,8 @@
 
 A passionate self-taught frontend developer, data scientist and linux user, pursuing a bachelor's degree in software engineering.
 
+<br />
+
 - 🔭 I’m currently working on [my arch dotfiles](https://github.com/IuraCPersonal/dotfiles)
 
 - 🌱 I’m currently learning **ReactJS**
