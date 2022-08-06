@@ -13,4 +13,4 @@ A passionate self-taught frontend developer, data scientist and linux user, purs
 - 📫 How to reach me **iurie.cius@isa.utm.md**
 
 
-<p><img width="80%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iuracpersonal&" alt="iuracpersonal" /></p>
+<p width="50%" align="center"><img width="50%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iuracpersonal&" alt="iuracpersonal" /></p>
