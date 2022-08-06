@@ -11,3 +11,5 @@ A passionate self-taught frontend developer, data scientist and linux user, purs
 - 🌱 I’m currently learning **ReactJS**
 
 - 📫 How to reach me **iurie.cius@isa.utm.md**
+
+<p width="50%">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iuracpersonal&show_icons=true&theme=onedark&locale=en" alt="iuracpersonal" /></p>
