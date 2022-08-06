@@ -1,4 +1,4 @@
-<img align="left" src="https://raw.githubusercontent.com/IuraCPersonal/IuraCPersonal/main/crow.gif">
+<img width="200px" align="left" src="https://raw.githubusercontent.com/IuraCPersonal/IuraCPersonal/main/crow.gif">
 
 ### Hi 👋, I'm Iura
 
