@@ -1,8 +1,8 @@
 <img width="150px" align="left" src="https://raw.githubusercontent.com/IuraCPersonal/IuraCPersonal/main/crow.gif">
 
-<h3 align="center">𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞 👋,</h3>
+<h3 align="center"><samp>Hello there</samp> 👋,</h3>
 
-<p>I'm a passionate self-taught frontend developer, data scientist and linux user, pursuing a bachelor's degree in software engineering.</p>
+<p><samp>I'm a passionate self-taught frontend developer, data scientist and linux user, pursuing a bachelor's degree in software engineering.</samp></p>
 
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -16,7 +16,7 @@
 
 
 <ul>
-   <li>🔭 I’m currently working on <a href="https://github.com/IuraCPersonal/dotfiles">my arch dotfiles</a></li>
-   <li>🌱 I’m currently learning <b>ReactJS</b></li>
-   <li>📫 How to reach me <b>iurie.cius@isa.utm.md</b></li>
+   <li>🔭 <samp>I’m currently working on <a href="https://github.com/IuraCPersonal/network-programming">network programming</a> course</samp></li>
+   <li>🌱 <samp>I’m currently learning <b>threading</b></samp></li>
+   <li>📫 <samp>How to reach me <b>iurie.cius@isa.utm.md</b></samp></li>
 </ul>
