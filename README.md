@@ -45,11 +45,11 @@
 <h2><samp> Documentation </samp></h2>
 
 <p align="center">
-   <a href="https://github.com/IuraCPersonal/dining-hall-component">
+   <a href="https://github.com/IuraCPersonal/git-cheatsheet">
       <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=IuraCPersonal&repo=git-cheatsheet&border_color=89b4fa&bg_color=11111b&title_color=fab387&text_color=cdd6f4&icon_color=6c7086" />
    </a>
    <span>&nbsp;</span>
-   <a href="https://github.com/IuraCPersonal/kitchen-component">
+   <a href="https://github.com/IuraCPersonal/dotfiles">
    <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=IuraCPersonal&repo=dotfiles&border_color=89b4fa&bg_color=11111b&title_color=fab387&text_color=cdd6f4&icon_color=6c7086" />
    </a>
 </p>
@@ -57,21 +57,21 @@
 <h2><samp> Archived </samp></h2>
 
 <p align="center">
-   <a href="https://github.com/IuraCPersonal/dining-hall-component">
+   <a href="https://github.com/IuraCPersonal/lfpc">
       <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=IuraCPersonal&repo=lfpc&border_color=89b4fa&bg_color=11111b&title_color=a6e3a1&text_color=cdd6f4&icon_color=6c7086" />
    </a>
    <span>&nbsp;</span>
-   <a href="https://github.com/IuraCPersonal/kitchen-component">
+   <a href="https://github.com/IuraCPersonal/cc">
    <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=IuraCPersonal&repo=cc&border_color=89b4fa&bg_color=11111b&title_color=a6e3a1&text_color=cdd6f4&icon_color=6c7086" />
    </a>
 </p>
 
 <p align="center">
-   <a href="https://github.com/IuraCPersonal/dining-hall-component">
+   <a href="https://github.com/IuraCPersonal/oop">
       <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=IuraCPersonal&repo=oop&border_color=89b4fa&bg_color=11111b&title_color=a6e3a1&text_color=cdd6f4&icon_color=6c7086" />
    </a>
    <span>&nbsp;</span>
-   <a href="https://github.com/IuraCPersonal/kitchen-component">
+   <a href="https://github.com/IuraCPersonal/gc">
    <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=IuraCPersonal&repo=gc&border_color=89b4fa&bg_color=11111b&title_color=a6e3a1&text_color=cdd6f4&icon_color=6c7086" />
    </a>
 </p>
