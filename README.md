@@ -1,10 +1,10 @@
-<img width="150px" align="left" src="https://raw.githubusercontent.com/IuraCPersonal/IuraCPersonal/main/crow.gif">
-
 <h3 align="center"><samp>Hello there</samp> 👋,</h3>
 
-<b><samp>I'm a passionate self-taught frontend developer, data scientist and linux user, pursuing a bachelor's degree in software engineering.</samp></b>
+<h5 align="center">
+  <samp>I'm a passionate self-taught frontend developer, data scientist and linux user, pursuing a bachelor's degree in software engineering.</samp>
+</h5>
 
-<p>
+<p align="center">
   <img alt="Latex" src="https://img.shields.io/badge/latex-%23008080.svg?style=flat-square&logo=latex&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
