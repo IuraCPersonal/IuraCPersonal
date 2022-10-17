@@ -42,6 +42,16 @@
    </a>
 </p>
 
+<p align="center">
+   <a href="https://github.com/IuraCPersonal/client-component">
+      <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=IuraCPersonal&repo=client-component&border_color=89b4fa&bg_color=11111b&title_color=f38ba8&text_color=cdd6f4&icon_color=6c7086" />
+   </a>
+   <span>&nbsp;</span>
+   <a href="https://github.com/IuraCPersonal/restaurant-aggregator-component">
+   <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=IuraCPersonal&repo=restaurant-aggregator-component&border_color=89b4fa&bg_color=11111b&title_color=f38ba8&text_color=cdd6f4&icon_color=6c7086" />
+   </a>
+</p>
+
 <h2><samp> Documentation </samp></h2>
 
 <p align="center">
