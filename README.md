@@ -14,10 +14,8 @@
   <img alt="Fedora" src="https://img.shields.io/badge/Fedora-294172?style=flat-square&logo=fedora&logoColor=white" />
   <img alt="Emacs" src="https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=flat-square&logo=gnu-emacs&logoColor=white" />
   <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
-  <img alt="Emacs" src="https://img.shields.io/badge/elixir-%234B275F.svg?style=flat-square&logo=elixir&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  
 </p>
 
 <br />
@@ -26,15 +24,15 @@
 
 <ul>
    <li>🔭 <b><samp>I’m currently working on <a href="https://github.com/IuraCPersonal/network-programming">network programming</a> course</samp></b></li>
-   <li>🌱 <b><samp>I’m currently learning <b>threading</b></samp></b></li>
+   <li>🌱 <b><samp>I’m currently learning <b>network protocols</b></samp></b></li>
    <li>📫 <b><samp>How to reach me <b>iurie.cius@isa.utm.md</b></samp></b></li>
 </ul>
 
 <h2><samp> Currently Working </samp></h2> 
 
 <p align="center">
-   <a href="https://github.com/IuraCPersonal/dining-hall-component">
-      <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=IuraCPersonal&repo=dining-hall-component&border_color=89b4fa&bg_color=11111b&title_color=f38ba8&text_color=cdd6f4&icon_color=6c7086" />
+   <a href="https://github.com/IuraCPersonal/distributed-datastore">
+      <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=IuraCPersonal&repo=distributed-datastore&border_color=89b4fa&bg_color=11111b&title_color=f38ba8&text_color=cdd6f4&icon_color=6c7086" />
    </a>
    <span>&nbsp;</span>
    <a href="https://github.com/IuraCPersonal/kitchen-component">
