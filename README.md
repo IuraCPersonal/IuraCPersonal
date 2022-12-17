@@ -64,7 +64,7 @@
    </a>
 </p>
 
-<!-- Thanks to Creestee -->
+<!-- 👇 Thanks to Creestee -->
 <h2><samp> 📈 Contribution </samp></h2>
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
