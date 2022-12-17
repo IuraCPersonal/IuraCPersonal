@@ -21,36 +21,16 @@
 <br />
 <br />
 
-
 <ul>
-   <li>🔭 <b><samp>I’m currently working on <a href="https://github.com/IuraCPersonal/network-programming">network programming</a> course</samp></b></li>
-   <li>🌱 <b><samp>I’m currently learning <b>network protocols</b></samp></b></li>
+   <li>🔭 <b><samp>I’m currently working on flask-mfa</samp></b></li>
+   <li>🌱 <b><samp>I’m currently learning <b>Django</b></samp></b></li>
    <li>📫 <b><samp>How to reach me <b>iurie.cius@isa.utm.md</b></samp></b></li>
 </ul>
 
-<h2><samp> Currently Working </samp></h2> 
+<!-- <h2><samp> Currently Working </samp></h2>  -->
 
-<p align="center">
-   <a href="https://github.com/IuraCPersonal/distributed-datastore">
-      <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=IuraCPersonal&repo=distributed-datastore&border_color=89b4fa&bg_color=11111b&title_color=f38ba8&text_color=cdd6f4&icon_color=6c7086" />
-   </a>
-   <span>&nbsp;</span>
-   <a href="https://github.com/IuraCPersonal/kitchen-component">
-   <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=IuraCPersonal&repo=kitchen-component&border_color=89b4fa&bg_color=11111b&title_color=f38ba8&text_color=cdd6f4&icon_color=6c7086" />
-   </a>
-</p>
 
-<p align="center">
-   <a href="https://github.com/IuraCPersonal/client-component">
-      <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=IuraCPersonal&repo=client-component&border_color=89b4fa&bg_color=11111b&title_color=f38ba8&text_color=cdd6f4&icon_color=6c7086" />
-   </a>
-   <span>&nbsp;</span>
-   <a href="https://github.com/IuraCPersonal/restaurant-aggregator-component">
-   <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=IuraCPersonal&repo=restaurant-aggregator-component&border_color=89b4fa&bg_color=11111b&title_color=f38ba8&text_color=cdd6f4&icon_color=6c7086" />
-   </a>
-</p>
-
-<h2><samp> Documentation </samp></h2>
+<h2><samp> 📃 Documentation </samp></h2>
 
 <p align="center">
    <a href="https://github.com/IuraCPersonal/git-cheatsheet">
@@ -62,24 +42,28 @@
    </a>
 </p>
 
-<h2><samp> Archived </samp></h2>
+<h2><samp> 📦 Archived </samp></h2>
 
 <p align="center">
-   <a href="https://github.com/IuraCPersonal/lfpc">
-      <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=IuraCPersonal&repo=lfpc&border_color=89b4fa&bg_color=11111b&title_color=a6e3a1&text_color=cdd6f4&icon_color=6c7086" />
+   <a href="https://github.com/IuraCPersonal/distributed-datastore">
+      <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=IuraCPersonal&repo=distributed-datastore&border_color=89b4fa&bg_color=11111b&title_color=a6e3a1&text_color=cdd6f4&icon_color=6c7086" />
    </a>
    <span>&nbsp;</span>
-   <a href="https://github.com/IuraCPersonal/cc">
-   <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=IuraCPersonal&repo=cc&border_color=89b4fa&bg_color=11111b&title_color=a6e3a1&text_color=cdd6f4&icon_color=6c7086" />
+   <a href="https://github.com/IuraCPersonal/pr">
+   <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=IuraCPersonal&repo=pr&border_color=89b4fa&bg_color=11111b&title_color=a6e3a1&text_color=cdd6f4&icon_color=6c7086" />
    </a>
 </p>
 
 <p align="center">
-   <a href="https://github.com/IuraCPersonal/oop">
-      <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=IuraCPersonal&repo=oop&border_color=89b4fa&bg_color=11111b&title_color=a6e3a1&text_color=cdd6f4&icon_color=6c7086" />
+   <a href="https://github.com/IuraCPersonal/tmps">
+      <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=IuraCPersonal&repo=tmps&border_color=89b4fa&bg_color=11111b&title_color=a6e3a1&text_color=cdd6f4&icon_color=6c7086" />
    </a>
    <span>&nbsp;</span>
-   <a href="https://github.com/IuraCPersonal/gc">
-   <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=IuraCPersonal&repo=gc&border_color=89b4fa&bg_color=11111b&title_color=a6e3a1&text_color=cdd6f4&icon_color=6c7086" />
+   <a href="https://github.com/IuraCPersonal/cs">
+   <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=IuraCPersonal&repo=cs&border_color=89b4fa&bg_color=11111b&title_color=a6e3a1&text_color=cdd6f4&icon_color=6c7086" />
    </a>
 </p>
+
+<h2><samp> 📈 Contribution </samp></h2>
+
+![](./profile-3d-contrib/profile-night-rainbow.svg)
