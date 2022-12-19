@@ -37,8 +37,8 @@
       <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=IuraCPersonal&repo=git-cheatsheet&border_color=89b4fa&bg_color=11111b&title_color=fab387&text_color=cdd6f4&icon_color=6c7086" />
    </a>
    <span>&nbsp;</span>
-   <a href="https://github.com/IuraCPersonal/dotfiles">
-   <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=IuraCPersonal&repo=dotfiles&border_color=89b4fa&bg_color=11111b&title_color=fab387&text_color=cdd6f4&icon_color=6c7086" />
+   <a href="https://github.com/IuraCPersonal/.dotfiles">
+   <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=IuraCPersonal&repo=.dotfiles&border_color=89b4fa&bg_color=11111b&title_color=fab387&text_color=cdd6f4&icon_color=6c7086" />
    </a>
 </p>
 
