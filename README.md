@@ -23,3 +23,54 @@
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
 </p>
+
+<br />
+<br />
+
+<ul>
+   <li>🔭 <b><samp>I’m currently working on web-cli</samp></b></li>
+   <li>🌱 <b><samp>I’m currently learning <b>Elixir</b></samp></b></li>
+   <li>📫 <b><samp>How to reach me <b>iurie.cius@isa.utm.md</b></samp></b></li>
+</ul>
+
+<!-- <h2><samp> Currently Working </samp></h2>  -->
+
+
+<h2><samp> 📃 Documentation </samp></h2>
+
+<p align="center">
+   <a href="https://github.com/IuraCPersonal/git-cheatsheet">
+      <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=IuraCPersonal&repo=git-cheatsheet&border_color=89b4fa&bg_color=11111b&title_color=fab387&text_color=cdd6f4&icon_color=6c7086" />
+   </a>
+   <span>&nbsp;</span>
+   <a href="https://github.com/IuraCPersonal/.dotfiles">
+   <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=IuraCPersonal&repo=.dotfiles&border_color=89b4fa&bg_color=11111b&title_color=fab387&text_color=cdd6f4&icon_color=6c7086" />
+   </a>
+</p>
+
+<h2><samp> 📦 Archived </samp></h2>
+
+<p align="center">
+   <a href="https://github.com/IuraCPersonal/distributed-datastore">
+      <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=IuraCPersonal&repo=distributed-datastore&border_color=89b4fa&bg_color=11111b&title_color=a6e3a1&text_color=cdd6f4&icon_color=6c7086" />
+   </a>
+   <span>&nbsp;</span>
+   <a href="https://github.com/IuraCPersonal/pr">
+   <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=IuraCPersonal&repo=pr&border_color=89b4fa&bg_color=11111b&title_color=a6e3a1&text_color=cdd6f4&icon_color=6c7086" />
+   </a>
+</p>
+
+<p align="center">
+   <a href="https://github.com/IuraCPersonal/tmps">
+      <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=IuraCPersonal&repo=tmps&border_color=89b4fa&bg_color=11111b&title_color=a6e3a1&text_color=cdd6f4&icon_color=6c7086" />
+   </a>
+   <span>&nbsp;</span>
+   <a href="https://github.com/IuraCPersonal/cs">
+   <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=IuraCPersonal&repo=cs&border_color=89b4fa&bg_color=11111b&title_color=a6e3a1&text_color=cdd6f4&icon_color=6c7086" />
+   </a>
+</p>
+
+<!-- 👇 Thanks to Creestee -->
+<h2><samp> 📈 Contribution </samp></h2>
+
+![](./profile-3d-contrib/profile-night-rainbow.svg)
