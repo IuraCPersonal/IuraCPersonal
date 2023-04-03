@@ -28,7 +28,7 @@
 <br />
 
 <ul>
-   <li>🔭 <b><samp>I’m currently working on web-cli</samp></b></li>
+   <li>🔭 <b><samp>I’m currently working on .dotfiles-ws</samp></b></li>
    <li>🌱 <b><samp>I’m currently learning <b>Elixir</b></samp></b></li>
    <li>📫 <b><samp>How to reach me <b>iurie.cius@isa.utm.md</b></samp></b></li>
 </ul>
