@@ -36,7 +36,7 @@
 <h2><samp> 🐱‍👓 Currently Working </samp></h2> 
 
 <p align="center">
-   <a href="[https://github.com/IuraCPersonal/git-cheatsheet](https://github.com/IuraCPersonal/ptr-project-1)">
+   <a href="https://github.com/IuraCPersonal/ptr-project-1">
       <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=IuraCPersonal&repo=ptr-project-1&border_color=89b4fa&bg_color=11111b&title_color=fab387&text_color=cdd6f4&icon_color=6c7086" />
    </a>
    <span>&nbsp;</span>
