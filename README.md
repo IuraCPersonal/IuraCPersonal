@@ -28,16 +28,16 @@
 <br />
 
 <ul>
-   <li>🔭 <b><samp>I’m currently working on .dotfiles-ws</samp></b></li>
-   <li>🌱 <b><samp>I’m currently learning <b>Elixir</b></samp></b></li>
+   <li>🔭 <b><samp>I’m currently working on message-broker</samp></b></li>
+   <li>🌱 <b><samp>I’m currently learning <b>Typescript</b></samp></b></li>
    <li>📫 <b><samp>How to reach me <b>iurie.cius@isa.utm.md</b></samp></b></li>
 </ul>
 
 <h2><samp> 🐱‍👓 Currently Working </samp></h2> 
 
 <p align="center">
-   <a href="https://github.com/IuraCPersonal/stream-processing">
-      <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=IuraCPersonal&repo=stream-processing&border_color=89b4fa&bg_color=11111b&title_color=fab387&text_color=cdd6f4&icon_color=6c7086" />
+   <a href="https://github.com/IuraCPersonal/message-broker">
+      <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=IuraCPersonal&repo=message-broker&border_color=89b4fa&bg_color=11111b&title_color=fab387&text_color=cdd6f4&icon_color=6c7086" />
    </a>
    <span>&nbsp;</span>
    <a href="https://github.com/IuraCPersonal/.dotfiles-ws">
