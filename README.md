@@ -78,8 +78,3 @@
    <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=IuraCPersonal&repo=cs&border_color=89b4fa&bg_color=11111b&title_color=a6e3a1&text_color=cdd6f4&icon_color=6c7086" />
    </a>
 </p>
-
-<!-- 👇 Thanks to Creestee -->
-<h2><samp> 📈 Contribution </samp></h2>
-
-![](./profile-3d-contrib/profile-night-rainbow.svg)
