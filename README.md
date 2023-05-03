@@ -1,6 +1,6 @@
 <div align="center">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&pause=1000&color=EBA0AC&center=true&vCenter=true&width=435&lines=Hello%2C+kraaa.+%F0%9F%90%B1%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&pause=1000&color=EBA0AC&center=true&vCenter=true&width=435&lines=Welcome+%F0%9F%90%B1%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" />
     </a>
 </div>
 
@@ -37,17 +37,17 @@
 
 <p align="center">
    <a href="https://github.com/IuraCPersonal/message-broker">
-      <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=IuraCPersonal&repo=message-broker&border_color=89b4fa&bg_color=11111b&title_color=fab387&text_color=cdd6f4&icon_color=6c7086" />
+      <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=IuraCPersonal&repo=message-broker&border_color=D3C6AA&bg_color=232A2E&title_color=E67E80&text_color=D3C6AA&icon_color=DBBC7F" />
    </a>
    <span>&nbsp;</span>
-   <a href="https://github.com/IuraCPersonal/.dotfiles-ws">
-   <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=IuraCPersonal&repo=.dotfiles-ws&border_color=89b4fa&bg_color=11111b&title_color=fab387&text_color=cdd6f4&icon_color=6c7086" />
+   <a href="https://github.com/IuraCPersonal/nextjs-quiz-app">
+   <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=IuraCPersonal&repo=nextjs-quiz-app&border_color=D3C6AA&bg_color=232A2E&title_color=E67E80&text_color=D3C6AA&icon_color=DBBC7F" />
    </a>
 </p>
 
-<h2><samp> 📃 Documentation </samp></h2>
+<!-- <h2><samp> 📃 Documentation </samp></h2> -->
 
-<p align="center">
+<!-- <p align="center">
    <a href="https://github.com/IuraCPersonal/git-cheatsheet">
       <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=IuraCPersonal&repo=git-cheatsheet&border_color=89b4fa&bg_color=11111b&title_color=fab387&text_color=cdd6f4&icon_color=6c7086" />
    </a>
@@ -77,4 +77,4 @@
    <a href="https://github.com/IuraCPersonal/cs">
    <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=IuraCPersonal&repo=cs&border_color=89b4fa&bg_color=11111b&title_color=a6e3a1&text_color=cdd6f4&icon_color=6c7086" />
    </a>
-</p>
+</p> -->
