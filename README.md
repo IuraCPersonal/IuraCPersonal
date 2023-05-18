@@ -28,8 +28,8 @@
 <br />
 
 <ul>
-   <li>🔭 <b><samp>I’m currently working on message-broker</samp></b></li>
-   <li>🌱 <b><samp>I’m currently learning <b>Typescript</b></samp></b></li>
+   <li>🔭 <b><samp>I’m currently working on portfolio-website</samp></b></li>
+   <li>🌱 <b><samp>I’m currently learning <b>NextJS</b></samp></b></li>
    <li>📫 <b><samp>How to reach me <b>iurie.cius@isa.utm.md</b></samp></b></li>
 </ul>
 
@@ -40,8 +40,8 @@
       <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=IuraCPersonal&repo=message-broker&border_color=D3C6AA&bg_color=232A2E&title_color=E67E80&text_color=D3C6AA&icon_color=DBBC7F" />
    </a>
    <span>&nbsp;</span>
-   <a href="https://github.com/IuraCPersonal/nextjs-quiz-app">
-   <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=IuraCPersonal&repo=nextjs-quiz-app&border_color=D3C6AA&bg_color=232A2E&title_color=E67E80&text_color=D3C6AA&icon_color=DBBC7F" />
+   <a href="https://github.com/IuraCPersonal/portfolio-website">
+   <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=IuraCPersonal&repo=portfolio-website&border_color=D3C6AA&bg_color=232A2E&title_color=E67E80&text_color=D3C6AA&icon_color=DBBC7F" />
    </a>
 </p>
 
