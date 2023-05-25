@@ -33,9 +33,9 @@
    <li>📫 <b><samp>How to reach me <b>iurie.cius@isa.utm.md</b></samp></b></li>
 </ul>
 
-<h2><samp> 🐱‍👓 Currently Working </samp></h2> 
+<h2><samp> 🐱‍👓 Currently Working : Web Development Internship </samp></h2> 
 
-<p align="center">
+<!-- <p align="center">
    <a href="https://github.com/IuraCPersonal/message-broker">
       <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=IuraCPersonal&repo=message-broker&border_color=D3C6AA&bg_color=232A2E&title_color=E67E80&text_color=D3C6AA&icon_color=DBBC7F" />
    </a>
@@ -43,7 +43,7 @@
    <a href="https://github.com/IuraCPersonal/portfolio-website">
    <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=IuraCPersonal&repo=portfolio-website&border_color=D3C6AA&bg_color=232A2E&title_color=E67E80&text_color=D3C6AA&icon_color=DBBC7F" />
    </a>
-</p>
+</p> -->
 
 <!-- <h2><samp> 📃 Documentation </samp></h2> -->
 
