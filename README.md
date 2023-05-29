@@ -47,11 +47,11 @@
 
 <p align="center">
    <a href="https://github.com/IuraCPersonal/newsroom-telegram-api">
-      <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=IuraCPersonal&repo=newsroom-telegram-api&border_color=89b4fa&bg_color=11111b&title_color=fab387&text_color=cdd6f4&icon_color=6c7086" />
+      <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=IuraCPersonal&repo=newsroom-telegram-api&border_color=11111b&bg_color=11111b&title_color=fab387&text_color=cdd6f4&icon_color=6c7086" />
    </a>
    <span>&nbsp;</span>
    <a href="https://github.com/IuraCPersonal/landing-page">
-   <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=IuraCPersonal&repo=landing-page&border_color=89b4fa&bg_color=11111b&title_color=fab387&text_color=cdd6f4&icon_color=6c7086" />
+   <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=IuraCPersonal&repo=landing-page&border_color=11111b&bg_color=11111b&title_color=fab387&text_color=cdd6f4&icon_color=6c7086" />
    </a>
 </p>
 
@@ -59,11 +59,11 @@
 
 <p align="center">
    <a href="https://github.com/IuraCPersonal/git-cheatsheet">
-      <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=IuraCPersonal&repo=git-cheatsheet&border_color=89b4fa&bg_color=11111b&title_color=fab387&text_color=cdd6f4&icon_color=6c7086" />
+      <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=IuraCPersonal&repo=git-cheatsheet&border_color=11111b&bg_color=11111b&title_color=fab387&text_color=cdd6f4&icon_color=6c7086" />
    </a>
    <span>&nbsp;</span>
    <a href="https://github.com/IuraCPersonal/.dotfiles">
-   <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=IuraCPersonal&repo=.dotfiles&border_color=89b4fa&bg_color=11111b&title_color=fab387&text_color=cdd6f4&icon_color=6c7086" />
+   <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=IuraCPersonal&repo=.dotfiles&border_color=11111b&bg_color=11111b&title_color=fab387&text_color=cdd6f4&icon_color=6c7086" />
    </a>
 </p>
 
@@ -71,20 +71,20 @@
 
 <p align="center">
     <a href="https://github.com/IuraCPersonal/cs">
-   <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=IuraCPersonal&repo=cs&border_color=89b4fa&bg_color=11111b&title_color=a6e3a1&text_color=cdd6f4&icon_color=6c7086" />
+   <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=IuraCPersonal&repo=cs&border_color=11111b&bg_color=11111b&title_color=a6e3a1&text_color=cdd6f4&icon_color=6c7086" />
    </a>
    <span>&nbsp;</span>
    <a href="https://github.com/IuraCPersonal/pr">
-   <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=IuraCPersonal&repo=pr&border_color=89b4fa&bg_color=11111b&title_color=a6e3a1&text_color=cdd6f4&icon_color=6c7086" />
+   <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=IuraCPersonal&repo=pr&border_color=11111b&bg_color=11111b&title_color=a6e3a1&text_color=cdd6f4&icon_color=6c7086" />
    </a>
 </p>
 
 <p align="center">
    <a href="https://github.com/IuraCPersonal/tmps">
-      <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=IuraCPersonal&repo=tmps&border_color=89b4fa&bg_color=11111b&title_color=a6e3a1&text_color=cdd6f4&icon_color=6c7086" />
+      <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=IuraCPersonal&repo=tmps&border_color=11111b&bg_color=11111b&title_color=a6e3a1&text_color=cdd6f4&icon_color=6c7086" />
    </a>
    <span>&nbsp;</span>
      <a href="https://github.com/IuraCPersonal/distributed-datastore">
-      <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=IuraCPersonal&repo=distributed-datastore&border_color=89b4fa&bg_color=11111b&title_color=a6e3a1&text_color=cdd6f4&icon_color=6c7086" />
+      <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=IuraCPersonal&repo=distributed-datastore&border_color=11111b&bg_color=11111b&title_color=a6e3a1&text_color=cdd6f4&icon_color=6c7086" />
    </a>
 </p>
