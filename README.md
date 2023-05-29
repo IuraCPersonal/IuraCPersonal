@@ -24,6 +24,16 @@
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
 </p>
 
+<p align="center">
+    <img src="https://img.shields.io/badge/chakra-%234ED1C5.svg?style=flat-square&logo=chakraui&logoColor=white" />
+    <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white" />
+    <img alt="antD" src="https://img.shields.io/badge/-AntDesign-%230170FE?style=flat-square&logo=ant-design&logoColor=white" />
+    <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white" />
+    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E" />
+    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" />
+    <img src="https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white" />
+</p>
+
 <br />
 <br />
 
@@ -33,21 +43,21 @@
    <li>📫 <b><samp>How to reach me <b>iurie.cius@isa.utm.md</b></samp></b></li>
 </ul>
 
-<h2><samp> 🐱‍👓 Currently Working : Web Development Internship </samp></h2> 
+<h2><samp> 🐱‍👓 Currently Working: </samp></h2> 
 
-<!-- <p align="center">
-   <a href="https://github.com/IuraCPersonal/message-broker">
-      <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=IuraCPersonal&repo=message-broker&border_color=D3C6AA&bg_color=232A2E&title_color=E67E80&text_color=D3C6AA&icon_color=DBBC7F" />
+<p align="center">
+   <a href="https://github.com/IuraCPersonal/newsroom-telegram-api">
+      <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=IuraCPersonal&repo=newsroom-telegram-api&border_color=89b4fa&bg_color=11111b&title_color=fab387&text_color=cdd6f4&icon_color=6c7086" />
    </a>
    <span>&nbsp;</span>
-   <a href="https://github.com/IuraCPersonal/portfolio-website">
-   <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=IuraCPersonal&repo=portfolio-website&border_color=D3C6AA&bg_color=232A2E&title_color=E67E80&text_color=D3C6AA&icon_color=DBBC7F" />
+   <a href="https://github.com/IuraCPersonal/landing-page">
+   <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=IuraCPersonal&repo=landing-page&border_color=89b4fa&bg_color=11111b&title_color=fab387&text_color=cdd6f4&icon_color=6c7086" />
    </a>
-</p> -->
+</p>
 
-<!-- <h2><samp> 📃 Documentation </samp></h2> -->
+<h2><samp> 📃 Documentation: </samp></h2>
 
-<!-- <p align="center">
+<p align="center">
    <a href="https://github.com/IuraCPersonal/git-cheatsheet">
       <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=IuraCPersonal&repo=git-cheatsheet&border_color=89b4fa&bg_color=11111b&title_color=fab387&text_color=cdd6f4&icon_color=6c7086" />
    </a>
@@ -57,11 +67,11 @@
    </a>
 </p>
 
-<h2><samp> 📦 Archived </samp></h2>
+<h2><samp> 📦 Archived: </samp></h2>
 
 <p align="center">
-   <a href="https://github.com/IuraCPersonal/distributed-datastore">
-      <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=IuraCPersonal&repo=distributed-datastore&border_color=89b4fa&bg_color=11111b&title_color=a6e3a1&text_color=cdd6f4&icon_color=6c7086" />
+    <a href="https://github.com/IuraCPersonal/cs">
+   <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=IuraCPersonal&repo=cs&border_color=89b4fa&bg_color=11111b&title_color=a6e3a1&text_color=cdd6f4&icon_color=6c7086" />
    </a>
    <span>&nbsp;</span>
    <a href="https://github.com/IuraCPersonal/pr">
@@ -74,7 +84,7 @@
       <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=IuraCPersonal&repo=tmps&border_color=89b4fa&bg_color=11111b&title_color=a6e3a1&text_color=cdd6f4&icon_color=6c7086" />
    </a>
    <span>&nbsp;</span>
-   <a href="https://github.com/IuraCPersonal/cs">
-   <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=IuraCPersonal&repo=cs&border_color=89b4fa&bg_color=11111b&title_color=a6e3a1&text_color=cdd6f4&icon_color=6c7086" />
+     <a href="https://github.com/IuraCPersonal/distributed-datastore">
+      <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=IuraCPersonal&repo=distributed-datastore&border_color=89b4fa&bg_color=11111b&title_color=a6e3a1&text_color=cdd6f4&icon_color=6c7086" />
    </a>
-</p> -->
+</p>
