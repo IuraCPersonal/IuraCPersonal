@@ -38,8 +38,8 @@
 <br />
 
 <ul>
-   <li>🔭 <b><samp>I’m currently working on portfolio-website</samp></b></li>
-   <li>🌱 <b><samp>I’m currently learning <b>NextJS</b></samp></b></li>
+   <li>🔭 <b><samp>I’m currently working on astro-landing-page</samp></b></li>
+   <li>🌱 <b><samp>I’m currently learning <b>Astro</b></samp></b></li>
    <li>📫 <b><samp>How to reach me <b>iurie.cius@isa.utm.md</b></samp></b></li>
 </ul>
 
