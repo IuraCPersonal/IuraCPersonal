@@ -17,7 +17,6 @@
   <img alt="Arch" src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=flat-square" />
   <img alt="Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" />
-  <img alt="Fedora" src="https://img.shields.io/badge/Fedora-294172?style=flat-square&logo=fedora&logoColor=white" />
   <img alt="Emacs" src="https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=flat-square&logo=gnu-emacs&logoColor=white" />
   <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
@@ -31,6 +30,7 @@
     <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white" />
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E" />
     <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" />
+    <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat-square&logo=nestjs&logoColor=white" />
     <img src="https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white" />
 </p>
 
@@ -38,8 +38,8 @@
 <br />
 
 <ul>
-   <li>🔭 <b><samp>I’m currently working on astro-landing-page</samp></b></li>
-   <li>🌱 <b><samp>I’m currently learning <b>Astro</b></samp></b></li>
+   <li>🔭 <b><samp>I’m currently working on pad-web-proxy</samp></b></li>
+   <li>🌱 <b><samp>I’m currently learning <b>NestJS</b></samp></b></li>
    <li>📫 <b><samp>How to reach me <b>iurie.cius@isa.utm.md</b></samp></b></li>
 </ul>
 
@@ -47,7 +47,7 @@
 
 <p align="center">
    <a href="https://github.com/IuraCPersonal/newsroom-telegram-api">
-      <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=IuraCPersonal&repo=newsroom-telegram-api&border_color=11111b&bg_color=11111b&title_color=fab387&text_color=cdd6f4&icon_color=6c7086" />
+      <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=IuraCPersonal&repo=pad-web-proxy&border_color=11111b&bg_color=11111b&title_color=fab387&text_color=cdd6f4&icon_color=6c7086" />
    </a>
    <span>&nbsp;</span>
    <a href="https://github.com/IuraCPersonal/landing-page">
