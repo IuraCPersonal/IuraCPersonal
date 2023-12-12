@@ -43,18 +43,6 @@
    <li>📫 <b><samp>How to reach me <b>iurie.cius@isa.utm.md</b></samp></b></li>
 </ul>
 
-<h2><samp> 🐱‍👓 Currently Working: </samp></h2> 
-
-<p align="center">
-   <a href="https://github.com/IuraCPersonal/newsroom-telegram-api">
-      <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=IuraCPersonal&repo=pad-web-proxy&border_color=11111b&bg_color=11111b&title_color=fab387&text_color=cdd6f4&icon_color=6c7086" />
-   </a>
-   <span>&nbsp;</span>
-   <a href="https://github.com/IuraCPersonal/landing-page">
-   <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=IuraCPersonal&repo=landing-page&border_color=11111b&bg_color=11111b&title_color=fab387&text_color=cdd6f4&icon_color=6c7086" />
-   </a>
-</p>
-
 <h2><samp> 📃 Documentation: </samp></h2>
 
 <p align="center">
