@@ -38,7 +38,7 @@
 <br />
 
 <ul>
-   <li>🔭 <b><samp>I’m currently working on pad-web-proxy</samp></b></li>
+   <li>🔭 <b><samp>I’m currently working on my University Licence - Sempio</samp></b></li>
    <li>🌱 <b><samp>I’m currently learning <b>NestJS</b></samp></b></li>
    <li>📫 <b><samp>How to reach me <b>iurie.cius@isa.utm.md</b></samp></b></li>
 </ul>
