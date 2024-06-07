@@ -5,7 +5,7 @@
 </div>
 
 <h5 align="center">
-  <samp>Aspiring code composer 🎵, data wizard 🧙‍♂️, Linux enthusiast 🐧, and software engineering undergrad 🎓 on a byte-sized journey through the digital realm! 💻🚀</samp>
+  <samp>Aspiring code composer 🎵, data wizard 🧙‍♂️, Linux enthusiast 🐧, and software engineering graduate 🎓 on a byte-sized journey through the digital realm! 💻🚀</samp>
 </h5>
 
 <br/>
@@ -41,8 +41,8 @@
 <br />
 
 <ul>
-   <li>🔭 <b><samp>I’m currently working on my University Licence - Sempio</samp></b></li>
-   <li>🌱 <b><samp>I’m currently learning <b>NestJS</b></samp></b></li>
+   <li>🔭 <b><samp>I’m currently working</samp></b></li>
+   <li>🌱 <b><samp>I’m currently learning <b>something ig</b></samp></b></li>
    <li>📫 <b><samp>How to reach me <b>iurie.cius@isa.utm.md</b></samp></b></li>
 </ul>
 
