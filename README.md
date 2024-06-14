@@ -1,6 +1,6 @@
 <div align="center">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&pause=1000&color=EBA0AC&center=true&vCenter=true&width=435&lines=sim3.14" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&pause=1000&color=EBA0AC&center=true&vCenter=true&width=435&lines=Hello,sim3.14" alt="Typing SVG" />
     </a>
 </div>
 
@@ -23,9 +23,6 @@
   <img src="https://img.shields.io/badge/astro-%232C2052.svg?style=flat-square&logo=astro&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-</p>
-
-<p align="center">
     <img src="https://img.shields.io/badge/chakra-%234ED1C5.svg?style=flat-square&logo=chakraui&logoColor=white" />
     <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white" />
     <img alt="antD" src="https://img.shields.io/badge/-AntDesign-%230170FE?style=flat-square&logo=ant-design&logoColor=white" />
@@ -41,22 +38,10 @@
 <br />
 
 <ul>
-   <li>🔭 <b><samp>I’m currently working</samp></b></li>
-   <li>🌱 <b><samp>I’m currently learning <b>something ig</b></samp></b></li>
-   <li>📫 <b><samp>How to reach me <b>iurie.cius@isa.utm.md</b></samp></b></li>
+   <li>🔭 <b><samp>I’m currently working on a real time truck tracking app</samp></b></li>
+   <li>🌱 <b><samp>I’m currently learning <b>NEXT.JS</b></samp></b></li>
+   <li>📫 <b><samp>How to reach me <b>iurie.cius.personal@gmail.com</b></samp></b></li>
 </ul>
-
-<h2><samp> 🚀 WIP: </samp></h2>
-
-<p align="center">
-   <a href="https://github.com/IuraCPersonal/echo">
-      <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=IuraCPersonal&repo=echo&border_color=11111b&bg_color=11111b&title_color=fab387&text_color=cdd6f4&icon_color=6c7086" />
-   </a>
-   <span>&nbsp;</span>
-   <a href="https://github.com/IuraCPersonal/sempio">
-   <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=IuraCPersonal&repo=sempio&border_color=11111b&bg_color=11111b&title_color=fab387&text_color=cdd6f4&icon_color=6c7086" />
-   </a>
-</p>
 
 <h2><samp> 📃 Documentation: </samp></h2>
 
@@ -71,6 +56,16 @@
 </p>
 
 <h2><samp> 📦 Archived: </samp></h2>
+
+<p align="center">
+   <a href="https://github.com/IuraCPersonal/echo">
+      <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=IuraCPersonal&repo=echo&border_color=11111b&bg_color=11111b&title_color=fab387&text_color=cdd6f4&icon_color=6c7086" />
+   </a>
+   <span>&nbsp;</span>
+   <a href="https://github.com/IuraCPersonal/sempio">
+   <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=IuraCPersonal&repo=sempio&border_color=11111b&bg_color=11111b&title_color=fab387&text_color=cdd6f4&icon_color=6c7086" />
+   </a>
+</p>
 
 <p align="center">
     <a href="https://github.com/IuraCPersonal/cs">
