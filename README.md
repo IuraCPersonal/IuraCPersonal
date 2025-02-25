@@ -38,8 +38,8 @@
 <br />
 
 <ul>
-   <li>🔭 <b><samp>I’m currently working on a real time truck tracking app</samp></b></li>
-   <li>🌱 <b><samp>I’m currently learning <b>NEXT.JS</b></samp></b></li>
+   <li>🔭 <b><samp>I’m currently working on <b>a real time game app</b></samp></b></li>
+   <li>🌱 <b><samp>I’m currently learning <b>Go</b></samp></b></li>
    <li>📫 <b><samp>How to reach me <b>iurie.cius.personal@gmail.com</b></samp></b></li>
 </ul>
 
